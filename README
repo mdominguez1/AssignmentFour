@@ -1,1 +1,12 @@
-#AssignmentFour
+Authors: Melchor Dominguez, Jorge Arcos Jr.
+Date: May 2, 2019
+
+How to run:
+    1) Type psql into the command line.
+    2) Create tables by typing \i university_ddl.sql
+    3) Copy tables by typing \i university_copy.sql
+    4) quit psql by \q
+    5) javac Exercise11.java or Exercise12.java
+    6) java Exercise11 or Exercise12
+    7) Type psql into the command line.
+    8) Drop all the tables by typing \i university_drop_ddl.sql
